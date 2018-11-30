@@ -1,0 +1,30 @@
+Partlist
+
+Exported from CMoy Ampli NEW.brd at 02.02.2014 15:29:42
+
+EAGLE Version 6.5.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value              Package            Library                   Position (mm)         Orientation
+
++        9V                 1X01               pinhead                   (6.27 15.45)          R90
+-        -9V                1X01               pinhead                   (46.46 15.63)         R0
+C1+      220µF              E3,5-8             resistor                  (4.5 11)              R180
+C1-      220µF              E3,5-8             resistor                  (50.5 11)             R180
+C2       470NF              C075-042X103       rcl                       (35 19.5)             R90
+C3       470NF              C075-042X103       rcl                       (20 19.5)             R90
+OPA2134  DUAL-OPAMP         DIP-8              opamps                    (27.5 19.8)           R180
+R1+      4.7K               0309V              resistor                  (8.72 16.72)          R270
+R1-      4.7K               0309V              resistor                  (45.19 18.35)         R180
+R2       100K               0309V              resistor                  (39.25 23.31)         R180
+R3       1K                 0309V              resistor                  (42.67 20)            R0
+R4       10K                0309V              resistor                  (41.4 17)             R90
+R5       optional           0309V              resistor                  (38.83 17)            R270
+R6       100K               0309V              resistor                  (15.46 23.61)         R0
+R7       1K                 0309V              resistor                  (11 21.67)            R0
+R8       10K                0309V              resistor                  (12.27 18)            R270
+R9       optional           0309V              resistor                  (15.3 18.8)           R90
+U$1      RK097-DUAL-ELEMENT RK097-DUAL-ELEMENT alps_japan_potentiometers (27.5 4.85)           R0
+U$2      EBS35              EBS35              EBS35                     (40 1.3)              R0
+U$3      EBS35              EBS35              EBS35                     (15 1.3)              R0
